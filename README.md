@@ -31,7 +31,7 @@ This is a beginner-friendly DevOps project that automates the installation and c
 - Copy key: ssh-copy-id or manually paste in ~/.ssh/authorized_keys
 
 ### Step 3: Clone this Repo
-git clone https://github.com/your-username/apache-ansible-project.git
+git clone https://github.com/ayushrockss/apache-ansible-project.git
 
 ### Step 4: Edit inventory.ini
 Replace 'your_target_server_ip' with actual IP
