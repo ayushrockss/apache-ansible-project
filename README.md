@@ -32,7 +32,7 @@ This is a beginner-friendly DevOps project that automates the installation and c
 
 ### Step 3: Clone this Repo
 ```bash
-git clone https://github.com/your-username/apache-ansible-project.git
+git clone https://github.com/ayushrockss/apache-ansible-project.git
 cd apache-ansible-project
 ```
 
